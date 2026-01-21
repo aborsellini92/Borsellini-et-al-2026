@@ -17,7 +17,6 @@ condensin-kymograph-analysis/
 ├── notebooks/
 │ ├── 00_condensin_kymotracking_diffusion.ipynb
 │ └── 01_condensin_FD_curves.ipynb
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
