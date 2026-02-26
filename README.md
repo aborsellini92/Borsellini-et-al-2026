@@ -22,6 +22,22 @@ condensin-kymograph-analysis/
 ```
 ---
 
+## Requirements
+
+- Python ≥ 3.9
+- Jupyter Notebook 
+- Core scientific packages:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+- LUMICKS analysis package:
+  - lumicks.pylake
+
+Detailed instruction on how to install Anaconda and Pylake package is available here: https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
+
+Once installed the requirements and the pylake package, activate the conda environment, and lounch one of the script:
+
 ## Notebooks overview
 
 ### `00_condensin_kymotracking_diffusion.ipynb`
@@ -39,19 +55,4 @@ condensin-kymograph-analysis/
 The notebooks are intended to be run **in order**.
 
 ---
-
-## Requirements
-
-- Python ≥ 3.9
-- Jupyter Notebook 
-- Core scientific packages:
-  - numpy
-  - scipy
-  - matplotlib
-  - pandas
-- LUMICKS analysis package:
-  - lumicks.pylake
-
-Detailed instruction on how to install Anaconda and Pylake package is available here: https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
-
 For questions, contact alessandro.borsellini@outlook.it or joanna.andrecka@fht.org
