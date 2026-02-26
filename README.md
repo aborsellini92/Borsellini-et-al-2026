@@ -36,7 +36,7 @@ condensin-kymograph-analysis/
 
 Detailed instruction on how to install Anaconda and Pylake package is available here: https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
 
-Once installed the requirements and the pylake package, activate the conda environment, and lounch one of the script:
+Once installed the requirements and the pylake package, activate the conda environment and launch one of the script:
 
 ## Notebooks overview
 
